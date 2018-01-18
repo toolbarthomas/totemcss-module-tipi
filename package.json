@@ -27,5 +27,7 @@
     "tipi.base.element-group": "^3.0.4",
     "tipi.base.sticky-end": "^2.0.3",
     "tipi.base.valign": "^1.0.2"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {}
 }
